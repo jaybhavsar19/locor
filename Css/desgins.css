@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Header Start */
+.header{
+    background-color: #D70D1D;
+    height: 70px;
+}
+
+.bars{
+    margin: 25px;
+}
+
+.bars .menu{
+    font-size: 35px;
+    padding: 30px;
+}
+.bars p{
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+.bars .search{
+    font-size: 20px;
+    
+}
