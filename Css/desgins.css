@@ -19,10 +19,37 @@
 .bars p{
     margin-top: 20px;
     font-size: 20px;
+    font-weight: 500;
     font-family: 'Times New Roman', Times, serif;
     padding: 10px;
 }
 .bars .search{
     font-size: 20px;
     
+}
+
+/* Header End */
+
+/* Banner start */
+
+.banner{
+    z-index: -1;
+    height: 100%;
+    background-color: #FFFFFF;
+}
+.banner .h1{
+    font-size: 60px;
+    font-weight: 800;
+    padding: 0 20px 0 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.banner .text{
+    font-size: 20px;
+    font-weight: 500;
+    padding: 30px 0 0 0 ;
+}
+
+.banner .text button{
+    font-weight: 700;
+    cursor: pointer;
 }
