@@ -34,7 +34,7 @@
 
 .banner{
     z-index: -1;
-    height: 100%;
+    height: 130%;
     background-color: #FFFFFF;
 }
 .banner .h1{
@@ -52,4 +52,20 @@
 .banner .text button{
     font-weight: 700;
     cursor: pointer;
+}
+
+/* Prodcut start */
+
+.product .product_p{
+    gap: 20%;
+    margin-top: 5%;
+}
+
+.product .product_p .text{
+    font-weight: 700;
+    border-color: #D70D1D;
+    border-style:solid;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
 }
